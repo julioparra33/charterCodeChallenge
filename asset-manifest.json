@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/charterCodeChallenge/static/css/main.4e55496a.chunk.css",
+    "main.js": "/charterCodeChallenge/static/js/main.39c50027.chunk.js",
+    "main.js.map": "/charterCodeChallenge/static/js/main.39c50027.chunk.js.map",
+    "runtime-main.js": "/charterCodeChallenge/static/js/runtime-main.70d015a6.js",
+    "runtime-main.js.map": "/charterCodeChallenge/static/js/runtime-main.70d015a6.js.map",
+    "static/css/2.2a86faee.chunk.css": "/charterCodeChallenge/static/css/2.2a86faee.chunk.css",
+    "static/js/2.27ccb50c.chunk.js": "/charterCodeChallenge/static/js/2.27ccb50c.chunk.js",
+    "static/js/2.27ccb50c.chunk.js.map": "/charterCodeChallenge/static/js/2.27ccb50c.chunk.js.map",
+    "index.html": "/charterCodeChallenge/index.html",
+    "precache-manifest.24791f2f9530e67fa15549f3d998a263.js": "/charterCodeChallenge/precache-manifest.24791f2f9530e67fa15549f3d998a263.js",
+    "service-worker.js": "/charterCodeChallenge/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/charterCodeChallenge/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.4e55496a.chunk.css.map": "/charterCodeChallenge/static/css/main.4e55496a.chunk.css.map",
+    "static/js/2.27ccb50c.chunk.js.LICENSE.txt": "/charterCodeChallenge/static/js/2.27ccb50c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d015a6.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.27ccb50c.chunk.js",
+    "static/css/main.4e55496a.chunk.css",
+    "static/js/main.39c50027.chunk.js"
+  ]
+}
